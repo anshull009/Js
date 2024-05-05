@@ -35,3 +35,11 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+// Undefined	"undefined"
+// Null	"object"
+// Boolean	"boolean"
+// Number	"number"
+// String	"string"
+// Object (native and does not implement [[Call]])	"object"
+// Object (native or host and does implement [[Call]])	"function"
+// Object (host and does not implement [[Call]])	Implementation-defined except may not be "u
