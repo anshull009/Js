@@ -3,7 +3,7 @@ let accointEmail="Abcd@12345"
 var accountPassword = "Password"
 accountCity="Imdore"
 
-// accountId =2 // not allowed
+// accountId =2 // changing the value of const is not allowed
 
 /*
 Prefer not to use var
