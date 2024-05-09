@@ -64,3 +64,4 @@ users[1].email
 const{courseInstructor : instructor} = course
 // in the line 64 ive made a shortcut to use the courseIntructor and gave it a nick name to call the key with this replace the traditional method of accesing the object with . notation
 console.log(instructor)
+
