@@ -40,3 +40,16 @@ if(true){
     }
 }
 
+// intresting example
+
+console.log(addone(5))
+function addone(num)
+{
+    return num +1 
+}
+
+console.log(addtow(5))
+// here the add two will give error because 
+const addtow = function(num){
+    return num + 2
+}
